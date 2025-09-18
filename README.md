@@ -11,9 +11,9 @@
 
 ## **Profile Summary** 📝
 
-Driven and detail-oriented Electronics and Communication Engineering (ECE) student specializing in VLSI design and verification. Trained under a seasoned Microsoft Verification Engineer, I possess hands-on experience in Verilog, System Verilog, and UVM. Adept at digital electronics, network analysis, and transistor technologies (BJT, FET, CMOS). I excel in front-end VLSI, coding in C and Java, with a strong grasp of OOP concepts and programming fundamentals.
+Driven and detail-oriented Electronics and Communication Engineering (ECE) student specializing in VLSI design and verification. Trained under a seasoned Microsoft Verification Engineer, I possess[...]  
 
-Experienced working in professional VLSI verification environments including Cygwin terminal, GVim editor, and QuestaSim simulator. Proficient in executing simulations via .do files, basic scripting for automation (.sh files), and command-line workflow. My VLSI journey is marked by complex project work—ranging from FIFO and RAM designs to verification IP and protocol-based architectures. Currently, I am developing and verifying a DMA Controller within the XCHIP Cohort SMP. I am enthusiastic about staying updated with the latest technology trends, CPUs, GPUs, and automotive engineering.
+Experienced working in professional VLSI verification environments including Cygwin terminal, GVim editor, and QuestaSim simulator. Proficient in executing simulations via .do files, basic scripti[...]  
 
 ---
 
